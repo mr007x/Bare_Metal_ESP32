@@ -1,2 +1,3 @@
 # ESP32
-ESP32 research and experimentation
+
+Projects, code snippets and more for ESP32
